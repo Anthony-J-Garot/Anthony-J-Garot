@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anthony-J-Garot
-- 👀 I’m interested in full-stack; although I seem to gravitate towards backend with a slice of Dev Ops.
-- 🌱 I’m currently learning GraphQL subscriptions.
+- 👀 I tend to gravitate towards backend but can do front-end. I also do a bit of Dev Ops as necessary.
+- 🌱 I’m currently learning embedded systems.
 - 📫 How to reach me tone[dot]garot@gmail[.]com
 
 <!---
