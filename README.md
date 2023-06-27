@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Anthony-J-Garot
-- 👀 I tend to gravitate towards backend but can do front-end. I also do a bit of Dev Ops as necessary.
-- 🌱 I’m currently doing a lot of embedded systems, which offers interesting challenges.
+- 👀 I do mostly embedded systems and back-end; but I will dig into front-end as needed.
 - 📫 How to reach me tone[dot]garot@gmail[.]com
 
 I don't really post a lot of personal repos. Most of what I do is for work. :/
